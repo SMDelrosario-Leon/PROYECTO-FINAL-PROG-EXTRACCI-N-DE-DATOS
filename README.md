@@ -6,6 +6,8 @@ CÓDIGO DE EXTRACCIÓN DE DATOS TWITTER
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+ 
+ 
 package ctruser;
 import java.util.List;
 import twitter4j.Status;
@@ -18,6 +20,9 @@ import twitter4j.conf.ConfigurationBuilder;
  *
  * @author hp
  */
+ 
+ 
+ 
 public class TWITTER_inf {
 public static void main(String[] args) throws TwitterException {
         try {
